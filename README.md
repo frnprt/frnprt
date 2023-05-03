@@ -15,3 +15,5 @@ I try to constantly keep up to date with the latest innovations and to understan
 ## Projects
 I mostly like to create tools for my everyday needs, automating boring stuff and finding new ways to pipeline tasks. <br>
 I occasionally upload some of them here or on my [gist](https://gist.github.com/frnprt) page.
+
+I also try to keep my starred projects section up to date and in order, [check it out](https://github.com/frnprt?tab=stars) if you like!
