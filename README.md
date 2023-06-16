@@ -1,7 +1,7 @@
 # Greetings, space traveller! 🖖
 
 ## About me
-My name is Francesco and I'm getting my Computer Science degree at the University of Milan.
+My name is Francesco and I got my Computer Science degree at the University of Milan.
 
 I've been fascinated by computers since I was five and nowadays I spend most of my spare time tinkering, coding and playing.
 
